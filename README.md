@@ -1,7 +1,7 @@
 # kvitochka
 The smart pot for your plant
 
-## Text is boring. Pictures are always better.
+## The text is boring. Pictures are always better.
 
 ![Team members](https://i.ibb.co/v3n1vKJ/image.jpg)
 
