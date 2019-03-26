@@ -3,9 +3,9 @@ The smart pot for your plant
 
 ## Text is boring. Pictures are always better.
 
-![Marusia](https://i.ibb.co/TBt0T03/1.jpg)
-
 ![Team members](https://i.ibb.co/v3n1vKJ/image.jpg)
+
+![Marusia](https://i.ibb.co/TBt0T03/1.jpg)
 
 ![Display](https://i.ibb.co/xmZVWZw/2.jpg)
 
