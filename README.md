@@ -1,6 +1,12 @@
 # kvitochka
 The smart pot for your plant
 
+## Team members
+- Maria Kulyk - [a link](https://github.com/marusiakulyk)
+- Olya Prots - [a link](https://github.com/hungrynagini)
+- Olya Levandivska - [a link](https://github.com/Levandivska)
+- Yevhenii Molodtsov - [a link](https://github.com/YevheniiM)
+
 ## A short  description
 We created a smart spot, which can control the soil humidity by watering the plant if needed. Also, it maintains the lighting around the plant at the same level using the led strip. It allows you to change the color of light so that you can set up the one you like the most.
 
